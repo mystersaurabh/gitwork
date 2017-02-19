@@ -1,0 +1,3 @@
+This is a file named a.txt 
+We will put the content of file a in this file 
+#just a plain text
